@@ -1,0 +1,6 @@
+E:\Чухарев\Дистанционное\ООП\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+E:\Чухарев\Дистанционное\ООП\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+E:\Чухарев\Дистанционное\ООП\ConsoleApp11\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+E:\Чухарев\Дистанционное\ООП\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csprojAssemblyReference.cache
+E:\Чухарев\Дистанционное\ООП\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+E:\Чухарев\Дистанционное\ООП\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.pdb

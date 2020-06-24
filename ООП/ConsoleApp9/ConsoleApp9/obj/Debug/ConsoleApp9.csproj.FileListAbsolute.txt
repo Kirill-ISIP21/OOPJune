@@ -1,0 +1,5 @@
+E:\Чухарев\Дистанционное\ООП\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+E:\Чухарев\Дистанционное\ООП\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+E:\Чухарев\Дистанционное\ООП\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+E:\Чухарев\Дистанционное\ООП\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+E:\Чухарев\Дистанционное\ООП\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.pdb

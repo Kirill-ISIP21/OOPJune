@@ -1,0 +1,6 @@
+E:\Чухарев\Дистанционное\ООП\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Чухарев\Дистанционное\ООП\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Чухарев\Дистанционное\ООП\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Чухарев\Дистанционное\ООП\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\Чухарев\Дистанционное\ООП\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Чухарев\Дистанционное\ООП\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
